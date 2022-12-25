@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim</h1>
-<h3 align="center">A Software Engineer Student</h3>
+<h3 align="center">A Software Engineering Student</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karygauss03&label=Profile%20views&color=0e75b6&style=flat" alt="karygauss03" /> </p>
 
