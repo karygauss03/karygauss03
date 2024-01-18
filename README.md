@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/karygauss03?tab=repositories](https://github.com/karygauss03?tab=repositories)
 
-- 📫 How to reach me **karim.omrane@supcom.tn**
+- 📫 How to reach me **karimomrane0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
