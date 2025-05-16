@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 🧑🏻‍💻 I'm currently a Software Development Engineer @[Expensya](https://www.expensya.com/en/)
+- 🧑🏻‍💻 I'm currently a Software Development Engineer @[Odoo](https://www.odoo.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/karygauss03?tab=repositories](https://github.com/karygauss03?tab=repositories)
 
