@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karygauss03" alt="karygauss03" /></a> </p> -->
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning **Agentic AI & Agentic Engineering**
 
 - 🧑🏻‍💻 I'm currently a Software Development Engineer @[Odoo](https://www.odoo.com/)
 
